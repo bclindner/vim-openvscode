@@ -23,6 +23,6 @@ Install with your favorite plugin manager, open up some files, and type:
 
 You can also call it as a function:
 
-```
-vim call OpenVSCode()
+```vim
+call openvscode#AllBuffers(1) " 0 to omit line numbers
 ```
