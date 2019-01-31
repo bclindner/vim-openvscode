@@ -1,4 +1,4 @@
-# vim-vscode
+# vim-openvscode
 
 A super-simple plugin to open all your current Vim buffers in [Visual Studio
 Code](https://code.visualstudio.com), for quick transitioning between the two.
